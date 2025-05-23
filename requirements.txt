@@ -1,0 +1,7 @@
+argparse==1.4.0
+pyasn1==0.1.7
+pycrypto==2.6.1
+pymodbus==2.5.3
+pymunk==6.11.1
+pyserial==3.5
+logging==0.4.9.6
